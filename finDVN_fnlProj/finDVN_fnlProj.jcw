@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>finDVN_fnlProj</label>
+	</settings>
+	<users>
+		<user>
+			<path>finDVN_fnlProj.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>finDVN_fnlProj.jcp</path>
+		</project>
+	</projects>
+</workspace>
